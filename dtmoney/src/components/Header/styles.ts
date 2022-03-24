@@ -12,7 +12,7 @@ export const Content = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 
   padding: 2.5rem 1rem 12rem;
 
