@@ -1,7 +1,6 @@
 import {Container} from '../Header/styles'
 import {Content} from '../Header/styles'
 import logo from '../../assets/logo.svg'
-import { useState } from 'react'
 
 
 interface HeaderProps{
